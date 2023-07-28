@@ -1,0 +1,39 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "@types/ws": "^8.5.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "@discordjs/ws": "^0.8.3",
+    "discord-api-types": "^0.37.50",
+    "tiny-typed-emitter": "^2.1.0",
+    "undici": "^5.22.1",
+    "ws": "^8.13.0"
+  },
+  "name": "kodekord.js",
+  "version": "1.0.0",
+  "description": "A package to interact with teh discord api, its a middle point beetwen discord.js and oceanic.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingsBeCattz/kodekord.js.git"
+  },
+  "keywords": [
+    "discord",
+    "api",
+    "ws",
+    "discordapp"
+  ],
+  "author": "KingsBeCats",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/KingsBeCattz/kodekord.js/issues"
+  },
+  "homepage": "https://github.com/KingsBeCattz/kodekord.js#readme"
+}
